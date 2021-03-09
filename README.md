@@ -160,6 +160,8 @@ Ejercicios
 
   Prueba nueva
 
+  Prueba extensión
+
 
 ### Antes de entregar la práctica
 
