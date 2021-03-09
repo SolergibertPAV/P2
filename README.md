@@ -156,7 +156,7 @@ Ejercicios
 - Si lo desea, puede realizar también algún comentario acerca de la realización de la práctica que
   considere de interés de cara a su evaluación.
   
-  ALEX SUBNORMAL
+
 
   Prueba nueva
 
