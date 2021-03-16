@@ -2,10 +2,10 @@
 
 # Be sure that this file has execution permissions:
 # Use the nautilus explorer or chmod +x run_vad.sh
-
+for num_init in 1 2 3 4 5 6 7; do
 # Write here the name and path of your program and database
 DB=/Users/tj/Desktop/PAV/P2/db.v4
-CMD=bin/vad
+CMD="bin/vad -N $num_init"
 
 for filewav in $DB/*/*wav; do
 #    echo
@@ -26,5 +26,5 @@ for filewav in $DB/*/*wav; do
 done
 
 scripts/vad_evaluation.pl $DB/*/*lab
-
+done
 exit 0
