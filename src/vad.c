@@ -59,8 +59,8 @@ VAD_DATA * vad_open(float rate, int number_init) {
   vad_data->sampling_rate = rate;
   vad_data->frame_length = rate * FRAME_TIME * 1e-3;
   vad_data->alpha0 = 6;
-  vad_data->counter_N = number_init;
-  vad_data->counter_init = 0;
+  vad_data->counter_N = 0;
+  vad_data->counter_init = number_init;
   vad_data->p0 = 0;
   return vad_data;
 }
@@ -97,7 +97,7 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
   switch (vad_data->state) {
   case ST_INIT:
     if(vad_data->counter_N < vad_data->counter_init){
-      vad_data->counter_init ++;
+      vad_data->counter_N ++;
       vad_data->p0 += pow(10, f.p/10);
 
     }else{

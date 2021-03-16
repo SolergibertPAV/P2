@@ -19,7 +19,8 @@ typedef struct {
   float p0;
   float k0;
   float alpha0;
-  unsigned int counter_init, counter_N;
+  unsigned int counter_init;
+  unsigned int counter_N;
 } VAD_DATA;
 
 /* Call this function before using VAD: 
