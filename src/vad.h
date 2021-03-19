@@ -16,11 +16,15 @@ typedef struct {
   float sampling_rate;
   unsigned int frame_length;
   float last_feature; /* for debuggin purposes */
-  float p0;
   float k0;
-  float alpha0;
-  unsigned int counter_init;
-  unsigned int counter_N;
+  float k1;
+  float k1;
+  float alpha1;
+  float alpha2;
+  unsigned int counter_N; //Contador
+  unsigned int counter_init; //Número máximo de tramas que permaneceremos en estado Init
+  unsigned int counter_ms; //Número de tramas que permaneceremos en Maybe Silence
+  unsigned int counter_mv; //Número de tramas que permaneceremos en Maybe Voice
 } VAD_DATA;
 
 /* Call this function before using VAD: 
