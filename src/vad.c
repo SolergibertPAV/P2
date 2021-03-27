@@ -53,7 +53,7 @@ Features compute_features(const float *x, int N) {
  * TODO: Init the values of vad_data
  */
 
-VAD_DATA * vad_open(float rate, int number_init, float n_alpha1){
+VAD_DATA * vad_open(float rate, int number_init, int number_ms, int number_mv, float n_alpha1, float n_alpha2){
   VAD_DATA *vad_data = malloc(sizeof(VAD_DATA));
   vad_data->state = ST_INIT;
   vad_data->sampling_rate = rate;
@@ -62,11 +62,11 @@ VAD_DATA * vad_open(float rate, int number_init, float n_alpha1){
   vad_data->k1 = 0;
   vad_data->k2 = 0;
   vad_data->alpha1 = n_alpha1;
-  vad_data->alpha2 = 6;
+  vad_data->alpha2 = n_alpha2;
   vad_data->counter_N = 0;
   vad_data->counter_init = number_init;
-  vad_data->counter_ms = 5;
-  vad_data->counter_mv = 5;
+  vad_data->counter_ms = number_ms;
+  vad_data->counter_mv = number_mv;
   return vad_data;
 }
 
@@ -115,7 +115,11 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       //printf("El nivel k0 es %f\n", vad_data->k0);
       //printf("El nivel k1 es %f\n", vad_data->k1);
       //printf("El nivel k2 es %f\n", vad_data->k2);
+      printf("El valor de number_init introducido es: %d\n", vad_data->counter_init);
+      printf("El valor de number_ms introducido es: %d\n", vad_data->counter_ms);
+      printf("El valor de number_mv introducido es: %d\n", vad_data->counter_mv);
       printf("El valor de alpha1 introducido es: %f\n", vad_data->alpha1);
+      printf("El valor de alpha2 introducido es: %f\n", vad_data->alpha2);
     }
     break;
 

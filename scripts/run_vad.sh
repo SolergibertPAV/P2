@@ -2,10 +2,11 @@
 
 # Be sure that this file has execution permissions:
 # Use the nautilus explorer or chmod +x run_vad.sh
-for num_init in 9 10; do
+for num_init in 9 10; do 
+# for alpha_uno in 1 2 3 4; do
 # Write here the name and path of your program and database
 DB=/Users/tj/Desktop/PAV/P2/db.v4
-CMD="bin/vad -N $num_init -a 2"
+CMD="bin/vad -N $num_init -s 20 -m 25 -a 2 -b 4"
 
 for filewav in $DB/*/*wav; do
 #    echo

@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[]) {
   int verbose = 0; /* To show internal state of vad: verbose = DEBUG_VAD; */
-
+  
   SNDFILE *sndfile_in, *sndfile_out = 0;
   SF_INFO sf_info;
   FILE *vadfile;
@@ -26,8 +26,11 @@ int main(int argc, char *argv[]) {
 
   char	*input_wav, *output_vad, *output_wav;
   unsigned int number_init;
+  unsigned int number_ms;
+  unsigned int number_mv;
   float n_alpha1;
-
+  float n_alpha2;
+  
   DocoptArgs args = docopt(argc, argv, /* help */ 1, /* version */ "2.0"); //Devuelve cadenas de texto
 
   verbose    = args.verbose ? DEBUG_VAD : 0;
@@ -35,7 +38,10 @@ int main(int argc, char *argv[]) {
   output_vad = args.output_vad;
   output_wav = args.output_wav;
   number_init = atoi(args.number_init);
+  number_ms = atoi(args.number_ms);
+  number_mv = atoi(args.number_mv);
   n_alpha1 = atof(args.n_alpha1);
+  n_alpha2 = atof(args.n_alpha2);
 
   if (input_wav == 0 || output_vad == 0) {
     fprintf(stderr, "%s\n", args.usage_pattern);
@@ -67,7 +73,7 @@ int main(int argc, char *argv[]) {
     }
   }
 
-  vad_data = vad_open(sf_info.samplerate, number_init, n_alpha1);
+  vad_data = vad_open(sf_info.samplerate, number_init, number_ms, number_mv, n_alpha1, n_alpha2);
   /* Allocate memory for buffers */
   frame_size   = vad_frame_size(vad_data);
   buffer       = (float *) malloc(frame_size * sizeof(float));
