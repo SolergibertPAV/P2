@@ -128,11 +128,13 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
     break;
   }
   
-  if (vad_data->state == ST_SILENCE ||
-      vad_data->state == ST_VOICE)
+  if (vad_data->state == ST_SILENCE || vad_data->state == ST_VOICE){
     return vad_data->state;
-  else
+  }else if(vad_data->state == ST_INIT){
     return ST_SILENCE;
+  }else{
+    return ST_UNDEF;
+  }
 }
 
 void vad_show_state(const VAD_DATA *vad_data, FILE *out) {
