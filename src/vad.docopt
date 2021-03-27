@@ -1,7 +1,7 @@
 VAD - Voice Activity Detector
 
 Usage:
-   vad [options] -N <number-init> -i <input-wav> -o <output-vad> [-w <output-wav>]
+   vad [options] -N <number-init> -a <n-alpha1> -i <input-wav> -o <output-vad> [-w <output-wav>]
    vad (-h | --help)
    vad --version
 
@@ -10,6 +10,7 @@ Options:
    -o FILE, --output-vad=FILE  Label file with the result of VAD
    -w FILE, --output-wav=FILE  WAVE file with silences cleared
    -N INT, --number-init=INT  Number of init frames [default:10]
+   -a FLOAT, --n-alpha1=FLOAT  Value of alpha1  [default:2]
    -v, --verbose  Show debug information
    -h, --help     Show this screen
    --version      Show the version of the project
