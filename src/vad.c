@@ -63,6 +63,7 @@ VAD_DATA * vad_open(float rate, int number_init) {
   vad_data->counter_init = number_init;
   vad_data->k0 = 0;
   vad_data->k1 = 0;
+  vad_data->k2 = 0;
   return vad_data;
 }
 
@@ -105,8 +106,9 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       vad_data->state = ST_SILENCE;
       vad_data->k0 = 10*log10(vad_data->k0/vad_data->counter_N);
       vad_data->k1 = vad_data->k0 + vad_data->alpha1;
+      vad_data->k2 = vad_data->k1 + vad_data->alpha2;
+      vad_data->counter_N = 0;
     }
-
     break;
 
   case ST_SILENCE:

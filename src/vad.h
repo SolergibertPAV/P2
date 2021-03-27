@@ -18,7 +18,7 @@ typedef struct {
   float last_feature; /* for debuggin purposes */
   float k0;
   float k1;
-  float k1;
+  float k2;
   float alpha1;
   float alpha2;
   unsigned int counter_N; //Contador
