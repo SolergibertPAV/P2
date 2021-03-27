@@ -105,7 +105,8 @@ int main(int argc, char *argv[]) {
     }
 
     if (sndfile_out != 0) {
-      /* TODO: go back and write zeros in silence segments [Si el estado es silencio poner a 0 los ultimos datos]*/
+      /* TODO: go back and write zeros in silence segments [Si el estado es silencio poner a 0 los ultimos datos]
+      if(state == ST_SILENCE)*/
     }
   }
 

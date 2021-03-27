@@ -112,14 +112,17 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       vad_data->k2 = vad_data->k1 + vad_data->alpha2;
       vad_data->counter_N = 0;
 
-      //printf("El nivel k0 es %f\n", vad_data->k0);
-      //printf("El nivel k1 es %f\n", vad_data->k1);
-      //printf("El nivel k2 es %f\n", vad_data->k2);
+      /*
+      printf("El nivel k0 es %f\n", vad_data->k0);
+      printf("El nivel k1 es %f\n", vad_data->k1);
+      printf("El nivel k2 es %f\n", vad_data->k2);
       printf("El valor de number_init introducido es: %d\n", vad_data->counter_init);
       printf("El valor de number_ms introducido es: %d\n", vad_data->counter_ms);
       printf("El valor de number_mv introducido es: %d\n", vad_data->counter_mv);
       printf("El valor de alpha1 introducido es: %f\n", vad_data->alpha1);
       printf("El valor de alpha2 introducido es: %f\n", vad_data->alpha2);
+      */
+     
     }
     break;
 
@@ -145,7 +148,7 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       //printf("Sigo MV");
     }else if(f.p > vad_data->k2 || vad_data->counter_N == vad_data->counter_mv){
       if(vad_data->counter_N == vad_data->counter_mv){
-        printf("He llegado al máximo de MV\n");
+        //printf("He llegado al máximo de MV\n");
       }
       vad_data->state = ST_VOICE;
       vad_data->counter_N = 0;
@@ -161,7 +164,7 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       //printf("Sigo MS");
     }else if(f.p < vad_data->k1 || vad_data->counter_N == vad_data->counter_ms){
       if(vad_data->counter_N == vad_data->counter_ms){
-        printf("He llegado al máximo de MS\n");
+        //printf("He llegado al máximo de MS\n");
       }
       vad_data->state = ST_SILENCE;
       vad_data->counter_N = 0;
