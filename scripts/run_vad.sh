@@ -2,7 +2,7 @@
 
 # Be sure that this file has execution permissions:
 # Use the nautilus explorer or chmod +x run_vad.sh
-for num_init in 14 15; do
+for num_init in 9 10; do
 # Write here the name and path of your program and database
 DB=/Users/tj/Desktop/PAV/P2/db.v4
 CMD="bin/vad -N $num_init"
