@@ -58,12 +58,15 @@ VAD_DATA * vad_open(float rate, int number_init) {
   vad_data->state = ST_INIT;
   vad_data->sampling_rate = rate;
   vad_data->frame_length = rate * FRAME_TIME * 1e-3;
-  vad_data->alpha1 = 6;
-  vad_data->counter_N = 0;
-  vad_data->counter_init = number_init;
   vad_data->k0 = 0;
   vad_data->k1 = 0;
   vad_data->k2 = 0;
+  vad_data->alpha1 = 6;
+  vad_data->alpha2 = 12;
+  vad_data->counter_N = 0;
+  vad_data->counter_init = number_init;
+  vad_data->counter_ms = 15;
+  vad_data->counter_mv = 15;
   return vad_data;
 }
 
@@ -112,7 +115,7 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
     break;
 
   case ST_SILENCE:
-    if (f.p > vad_data->k1)
+    if (f.p > vad_data->k2)
       vad_data->state = ST_VOICE;
     break;
 
