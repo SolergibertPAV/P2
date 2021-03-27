@@ -12,8 +12,8 @@ Options:
    -N INT, --number-init=INT  Number of init frames [default: 10]
    -s INT, --number-ms=INT  Number of frames in MS [default: 20]
    -m INT, --number-mv=INT  Number of frames in MV [default: 25]
-   -a FLOAT, --n-alpha1=FLOAT  Value of alpha1 [default: 2.5]
-   -b FLOAT, --n-alpha2=FLOAT  Value of alpha2 [default: 4.9]
+   -a FLOAT, --n-alpha1=FLOAT  Value of alpha1 [default: 2]
+   -b FLOAT, --n-alpha2=FLOAT  Value of alpha2 [default: 5]
    -v, --verbose  Show debug information
    -h, --help     Show this screen
    --version      Show the version of the project
