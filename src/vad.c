@@ -53,7 +53,7 @@ Features compute_features(const float *x, int N) {
  * TODO: Init the values of vad_data
  */
 
-VAD_DATA * vad_open(float rate, float n_alpha1, float n_alpha2, int number_init, int number_ms, int number_mv){
+VAD_DATA * vad_open(float rate, int number_init) {
   VAD_DATA *vad_data = malloc(sizeof(VAD_DATA));
   vad_data->state = ST_INIT;
   vad_data->sampling_rate = rate;
@@ -61,12 +61,12 @@ VAD_DATA * vad_open(float rate, float n_alpha1, float n_alpha2, int number_init,
   vad_data->k0 = 0;
   vad_data->k1 = 0;
   vad_data->k2 = 0;
-  vad_data->alpha1 = n_alpha1;
-  vad_data->alpha2 = n_alpha2;
+  vad_data->alpha1 = 2;
+  vad_data->alpha2 = 5;
   vad_data->counter_N = 0;
   vad_data->counter_init = number_init;
-  vad_data->counter_ms = 5;
-  vad_data->counter_mv = 5;
+  vad_data->counter_ms = 25;
+  vad_data->counter_mv = 25;
   return vad_data;
 }
 
@@ -115,7 +115,6 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       //printf("El nivel k0 es %f\n", vad_data->k0);
       //printf("El nivel k1 es %f\n", vad_data->k1);
       //printf("El nivel k2 es %f\n", vad_data->k2);
-      printf("El valor de alpha1 introducido es: %f\n", vad_data->alpha1);
     }
     break;
 
@@ -140,9 +139,6 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       vad_data->counter_N ++;
       //printf("Sigo MV");
     }else if(f.p > vad_data->k2 || vad_data->counter_N == vad_data->counter_mv){
-      if(vad_data->counter_N == vad_data->counter_mv){
-        printf("He llegado al máximo de MV\n");
-      }
       vad_data->state = ST_VOICE;
       vad_data->counter_N = 0;
     }else if(f.p < vad_data->k1){
@@ -156,9 +152,6 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       vad_data->counter_N ++;
       //printf("Sigo MS");
     }else if(f.p < vad_data->k1 || vad_data->counter_N == vad_data->counter_ms){
-      if(vad_data->counter_N == vad_data->counter_ms){
-        printf("He llegado al máximo de MS\n");
-      }
       vad_data->state = ST_SILENCE;
       vad_data->counter_N = 0;
     }else if(f.p > vad_data->k2){
