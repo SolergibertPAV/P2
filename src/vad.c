@@ -61,12 +61,12 @@ VAD_DATA * vad_open(float rate, int number_init) {
   vad_data->k0 = 0;
   vad_data->k1 = 0;
   vad_data->k2 = 0;
-  vad_data->alpha1 = 6;
+  vad_data->alpha1 = 4;
   vad_data->alpha2 = 12;
   vad_data->counter_N = 0;
   vad_data->counter_init = number_init;
-  vad_data->counter_ms = 15;
-  vad_data->counter_mv = 15;
+  vad_data->counter_ms = 50;
+  vad_data->counter_mv = 40;
   return vad_data;
 }
 
@@ -111,17 +111,53 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       vad_data->k1 = vad_data->k0 + vad_data->alpha1;
       vad_data->k2 = vad_data->k1 + vad_data->alpha2;
       vad_data->counter_N = 0;
+
+      //printf("El nivel k0 es %f\n", vad_data->k0);
+      //printf("El nivel k1 es %f\n", vad_data->k1);
+      //printf("El nivel k2 es %f\n", vad_data->k2);
     }
     break;
 
   case ST_SILENCE:
-    if (f.p > vad_data->k2)
+    if (f.p > vad_data->k2){
       vad_data->state = ST_VOICE;
+    }else if(f.p > vad_data->k1 && f.p < vad_data->k2){ //Si estas entre los umbrales k1 y k2
+      vad_data->state = ST_MV; //El siguinte estado sera Maybe Voice
+    }
     break;
 
   case ST_VOICE:
-    if (f.p < vad_data->k1)
+    if (f.p < vad_data->k1){
       vad_data->state = ST_SILENCE;
+    }else if(f.p > vad_data->k1 && f.p < vad_data->k2){ //Si estas entre los umbrales k1 y k2
+      vad_data->state = ST_MS; //El siguinte estado sera Maybe Silence
+    }
+    break;
+
+  case ST_MV:
+    if(f.p > vad_data->k1 && f.p < vad_data->k2 && vad_data->counter_N < vad_data->counter_mv){
+      vad_data->counter_N ++;
+      //printf("Sigo MV");
+    }else if(f.p > vad_data->k2 || vad_data->counter_N == vad_data->counter_mv){
+      vad_data->state = ST_VOICE;
+      vad_data->counter_N = 0;
+    }else if(f.p < vad_data->k1){
+      vad_data->state = ST_SILENCE;
+      vad_data->counter_N = 0;
+    }
+    break;
+
+  case ST_MS:
+    if(f.p > vad_data->k1 && f.p < vad_data->k2 && vad_data->counter_N < vad_data->counter_ms){
+      vad_data->counter_N ++;
+      //printf("Sigo MS");
+    }else if(f.p < vad_data->k1 || vad_data->counter_N == vad_data->counter_ms){
+      vad_data->state = ST_SILENCE;
+      vad_data->counter_N = 0;
+    }else if(f.p > vad_data->k2){
+      vad_data->state = ST_VOICE;
+      vad_data->counter_N = 0;
+    }
     break;
 
   case ST_UNDEF:
@@ -133,6 +169,7 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
   }else if(vad_data->state == ST_INIT){
     return ST_SILENCE;
   }else{
+    //return ST_SILENCE;
     return ST_UNDEF;
   }
 }
