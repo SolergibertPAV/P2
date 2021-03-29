@@ -1,0 +1,623 @@
+ZCR en S: 855.345886
+ZCR en S: 1509.433960
+ZCR en S: 1257.861572
+ZCR en S: 654.088074
+ZCR en S: 955.974792
+ZCR en S: 855.345886
+ZCR en S: 905.660400
+ZCR en S: 1106.918213
+ZCR en S: 1408.805054
+De S me voy a MV
+Llevo 0 tramas en MV
+ZCR en MV: 1257.861572
+Sigo MV
+Llevo 1 tramas en MV
+ZCR en MV: 1660.377441
+Sigo MV
+Llevo 2 tramas en MV
+ZCR en MV: 1459.119385
+Sigo MV
+Llevo 3 tramas en MV
+ZCR en MV: 704.402527
+Sigo MV
+Llevo 4 tramas en MV
+ZCR en MV: 1610.062866
+Sigo MV
+Llevo 5 tramas en MV
+ZCR en MV: 1761.006226
+He llegado al máximo de MV
+De MV me voy a S
+ZCR en S: 1459.119385
+ZCR en S: 1459.119385
+ZCR en S: 1157.232788
+ZCR en S: 1408.805054
+ZCR en S: 1056.603760
+ZCR en S: 1408.805054
+ZCR en S: 452.830200
+ZCR en S: 1257.861572
+ZCR en S: 1207.547241
+ZCR en S: 1106.918213
+ZCR en S: 1157.232788
+ZCR en S: 905.660400
+ZCR en S: 251.572342
+De S me voy a MV
+Llevo 0 tramas en MV
+ZCR en MV: 201.257858
+De MV me voy a V
+ZCR en V: 251.572342
+ZCR en V: 201.257858
+ZCR en V: 402.515717
+ZCR en V: 452.830200
+ZCR en V: 503.144684
+ZCR en V: 503.144684
+ZCR en V: 603.773621
+ZCR en V: 654.088074
+ZCR en V: 1157.232788
+ZCR en V: 1106.918213
+ZCR en V: 1207.547241
+ZCR en V: 754.716980
+ZCR en V: 805.031433
+ZCR en V: 855.345886
+ZCR en V: 704.402527
+ZCR en V: 402.515717
+ZCR en V: 301.886810
+ZCR en V: 553.459106
+ZCR en V: 402.515717
+ZCR en V: 603.773621
+ZCR en V: 1559.748413
+ZCR en V: 1408.805054
+ZCR en V: 1106.918213
+ZCR en V: 955.974792
+ZCR en V: 905.660400
+ZCR en V: 955.974792
+ZCR en V: 654.088074
+ZCR en V: 452.830200
+ZCR en V: 301.886810
+ZCR en V: 402.515717
+ZCR en V: 1056.603760
+ZCR en V: 1962.264160
+ZCR en V: 2918.238770
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 1962.264160
+De MS me voy a V
+ZCR en V: 3421.383545
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 955.974792
+Sigo MS
+Llevo 1 tramas en MS
+ZCR en MS: 402.515717
+Sigo MS
+Llevo 2 tramas en MS
+ZCR en MS: 301.886810
+Sigo MS
+Llevo 3 tramas en MS
+ZCR en MS: 251.572342
+Sigo MS
+Llevo 4 tramas en MS
+ZCR en MS: 452.830200
+De MS me voy a V
+ZCR en V: 654.088074
+ZCR en V: 452.830200
+ZCR en V: 553.459106
+ZCR en V: 452.830200
+ZCR en V: 402.515717
+ZCR en V: 201.257858
+ZCR en V: 201.257858
+ZCR en V: 201.257858
+ZCR en V: 603.773621
+ZCR en V: 503.144684
+ZCR en V: 503.144684
+ZCR en V: 402.515717
+ZCR en V: 603.773621
+ZCR en V: 553.459106
+ZCR en V: 553.459106
+ZCR en V: 704.402527
+ZCR en V: 654.088074
+ZCR en V: 955.974792
+ZCR en V: 654.088074
+ZCR en V: 855.345886
+ZCR en V: 1106.918213
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 855.345886
+Sigo MS
+Llevo 1 tramas en MS
+ZCR en MS: 805.031433
+Sigo MS
+Llevo 2 tramas en MS
+ZCR en MS: 905.660400
+Sigo MS
+Llevo 3 tramas en MS
+ZCR en MS: 654.088074
+Sigo MS
+Llevo 4 tramas en MS
+ZCR en MS: 503.144684
+Sigo MS
+Llevo 5 tramas en MS
+ZCR en MS: 905.660400
+Sigo MS
+Llevo 6 tramas en MS
+ZCR en MS: 4025.157471
+Sigo MS
+Llevo 7 tramas en MS
+ZCR en MS: 4880.503418
+De MS me voy a V
+ZCR en V: 5836.477539
+ZCR en V: 5232.704590
+ZCR en V: 6188.679199
+ZCR en V: 6037.735840
+ZCR en V: 6088.050293
+ZCR en V: 6188.679199
+ZCR en V: 5534.591309
+ZCR en V: 5886.792480
+ZCR en V: 5836.477539
+ZCR en V: 6188.679199
+ZCR en V: 5735.849121
+ZCR en V: 5937.106934
+ZCR en V: 6088.050293
+ZCR en V: 5886.792480
+ZCR en V: 4226.415039
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 4729.560059
+Sigo MS
+Llevo 1 tramas en MS
+ZCR en MS: 2867.924561
+Sigo MS
+Llevo 2 tramas en MS
+ZCR en MS: 1811.320801
+Sigo MS
+Llevo 3 tramas en MS
+ZCR en MS: 1308.176147
+Sigo MS
+Llevo 4 tramas en MS
+ZCR en MS: 1257.861572
+Sigo MS
+Llevo 5 tramas en MS
+ZCR en MS: 2012.578735
+Sigo MS
+Llevo 6 tramas en MS
+ZCR en MS: 1761.006226
+Sigo MS
+Llevo 7 tramas en MS
+ZCR en MS: 1006.289368
+Sigo MS
+Llevo 8 tramas en MS
+ZCR en MS: 1308.176147
+Sigo MS
+Llevo 9 tramas en MS
+ZCR en MS: 1509.433960
+Sigo MS
+Llevo 10 tramas en MS
+ZCR en MS: 1710.691772
+Sigo MS
+Llevo 11 tramas en MS
+ZCR en MS: 1358.490601
+Sigo MS
+Llevo 12 tramas en MS
+ZCR en MS: 1962.264160
+He llegado al máximo de MS
+De MS me voy a S
+ZCR en S: 1610.062866
+ZCR en S: 1962.264160
+ZCR en S: 1660.377441
+ZCR en S: 1056.603760
+ZCR en S: 1308.176147
+ZCR en S: 1157.232788
+ZCR en S: 1610.062866
+ZCR en S: 1006.289368
+ZCR en S: 1811.320801
+ZCR en S: 2062.893066
+ZCR en S: 1761.006226
+ZCR en S: 1308.176147
+De S me voy a MV
+Llevo 0 tramas en MV
+ZCR en MV: 754.716980
+De MV me voy a V
+ZCR en V: 654.088074
+ZCR en V: 503.144684
+ZCR en V: 754.716980
+ZCR en V: 553.459106
+ZCR en V: 452.830200
+ZCR en V: 503.144684
+ZCR en V: 654.088074
+ZCR en V: 3823.899170
+ZCR en V: 4930.817383
+ZCR en V: 5635.220215
+ZCR en V: 5534.591309
+ZCR en V: 5937.106934
+ZCR en V: 6339.622559
+ZCR en V: 4528.301758
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 2062.893066
+Sigo MS
+Llevo 1 tramas en MS
+ZCR en MS: 3018.867920
+Sigo MS
+Llevo 2 tramas en MS
+ZCR en MS: 2867.924561
+Sigo MS
+Llevo 3 tramas en MS
+ZCR en MS: 2213.836426
+Sigo MS
+Llevo 4 tramas en MS
+ZCR en MS: 1861.635254
+Sigo MS
+Llevo 5 tramas en MS
+ZCR en MS: 1610.062866
+Sigo MS
+Llevo 6 tramas en MS
+ZCR en MS: 1861.635254
+Sigo MS
+Llevo 7 tramas en MS
+ZCR en MS: 1459.119385
+Sigo MS
+Llevo 8 tramas en MS
+ZCR en MS: 2012.578735
+Sigo MS
+Llevo 9 tramas en MS
+ZCR en MS: 1056.603760
+Sigo MS
+Llevo 10 tramas en MS
+ZCR en MS: 704.402527
+De MS me voy a V
+ZCR en V: 1106.918213
+ZCR en V: 905.660400
+ZCR en V: 704.402527
+ZCR en V: 603.773621
+ZCR en V: 503.144684
+ZCR en V: 805.031433
+ZCR en V: 805.031433
+ZCR en V: 704.402527
+ZCR en V: 603.773621
+ZCR en V: 704.402527
+ZCR en V: 654.088074
+ZCR en V: 452.830200
+ZCR en V: 452.830200
+ZCR en V: 553.459106
+ZCR en V: 955.974792
+ZCR en V: 754.716980
+ZCR en V: 553.459106
+ZCR en V: 603.773621
+ZCR en V: 1308.176147
+ZCR en V: 1559.748413
+ZCR en V: 855.345886
+ZCR en V: 704.402527
+ZCR en V: 654.088074
+ZCR en V: 553.459106
+ZCR en V: 2767.295654
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 4981.131836
+De MS me voy a V
+ZCR en V: 5484.276855
+ZCR en V: 5886.792480
+ZCR en V: 5786.163086
+ZCR en V: 5786.163086
+ZCR en V: 5685.534668
+ZCR en V: 5786.163086
+ZCR en V: 5836.477539
+ZCR en V: 5735.849121
+ZCR en V: 5786.163086
+ZCR en V: 4981.131836
+ZCR en V: 3421.383545
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 2012.578735
+Sigo MS
+Llevo 1 tramas en MS
+ZCR en MS: 2264.150879
+Sigo MS
+Llevo 2 tramas en MS
+ZCR en MS: 2012.578735
+Sigo MS
+Llevo 3 tramas en MS
+ZCR en MS: 1761.006226
+Sigo MS
+Llevo 4 tramas en MS
+ZCR en MS: 1761.006226
+Sigo MS
+Llevo 5 tramas en MS
+ZCR en MS: 2012.578735
+Sigo MS
+Llevo 6 tramas en MS
+ZCR en MS: 1056.603760
+Sigo MS
+Llevo 7 tramas en MS
+ZCR en MS: 2213.836426
+Sigo MS
+Llevo 8 tramas en MS
+ZCR en MS: 1660.377441
+Sigo MS
+Llevo 9 tramas en MS
+ZCR en MS: 1861.635254
+Sigo MS
+Llevo 10 tramas en MS
+ZCR en MS: 1106.918213
+Sigo MS
+Llevo 11 tramas en MS
+ZCR en MS: 1509.433960
+Sigo MS
+Llevo 12 tramas en MS
+ZCR en MS: 1660.377441
+He llegado al máximo de MS
+De MS me voy a S
+ZCR en S: 1559.748413
+ZCR en S: 1358.490601
+ZCR en S: 805.031433
+ZCR en S: 905.660400
+De S me voy a MV
+Llevo 0 tramas en MV
+ZCR en MV: 754.716980
+De MV me voy a V
+ZCR en V: 704.402527
+ZCR en V: 301.886810
+ZCR en V: 251.572342
+ZCR en V: 352.201263
+ZCR en V: 553.459106
+ZCR en V: 251.572342
+ZCR en V: 251.572342
+ZCR en V: 251.572342
+ZCR en V: 704.402527
+ZCR en V: 1157.232788
+ZCR en V: 1358.490601
+ZCR en V: 1408.805054
+ZCR en V: 1358.490601
+ZCR en V: 1358.490601
+ZCR en V: 1509.433960
+ZCR en V: 1207.547241
+ZCR en V: 1358.490601
+ZCR en V: 1459.119385
+ZCR en V: 1308.176147
+ZCR en V: 1408.805054
+ZCR en V: 1509.433960
+ZCR en V: 905.660400
+ZCR en V: 704.402527
+ZCR en V: 905.660400
+ZCR en V: 1257.861572
+ZCR en V: 905.660400
+ZCR en V: 855.345886
+ZCR en V: 1056.603760
+ZCR en V: 1106.918213
+ZCR en V: 1106.918213
+ZCR en V: 955.974792
+ZCR en V: 754.716980
+ZCR en V: 503.144684
+ZCR en V: 503.144684
+ZCR en V: 805.031433
+ZCR en V: 855.345886
+ZCR en V: 754.716980
+ZCR en V: 1006.289368
+ZCR en V: 1006.289368
+ZCR en V: 553.459106
+ZCR en V: 503.144684
+ZCR en V: 201.257858
+ZCR en V: 251.572342
+ZCR en V: 352.201263
+ZCR en V: 855.345886
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 1710.691772
+Sigo MS
+Llevo 1 tramas en MS
+ZCR en MS: 1106.918213
+Sigo MS
+Llevo 2 tramas en MS
+ZCR en MS: 2515.723145
+Sigo MS
+Llevo 3 tramas en MS
+ZCR en MS: 2213.836426
+Sigo MS
+Llevo 4 tramas en MS
+ZCR en MS: 3421.383545
+Sigo MS
+Llevo 5 tramas en MS
+ZCR en MS: 2012.578735
+Sigo MS
+Llevo 6 tramas en MS
+ZCR en MS: 2616.352295
+Sigo MS
+Llevo 7 tramas en MS
+ZCR en MS: 2213.836426
+Sigo MS
+Llevo 8 tramas en MS
+ZCR en MS: 1308.176147
+Sigo MS
+Llevo 9 tramas en MS
+ZCR en MS: 553.459106
+De MS me voy a V
+ZCR en V: 704.402527
+ZCR en V: 452.830200
+ZCR en V: 503.144684
+ZCR en V: 1006.289368
+ZCR en V: 704.402527
+ZCR en V: 603.773621
+ZCR en V: 704.402527
+ZCR en V: 754.716980
+ZCR en V: 704.402527
+ZCR en V: 1207.547241
+ZCR en V: 1408.805054
+ZCR en V: 1308.176147
+ZCR en V: 1358.490601
+ZCR en V: 955.974792
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 654.088074
+Sigo MS
+Llevo 1 tramas en MS
+ZCR en MS: 805.031433
+Sigo MS
+Llevo 2 tramas en MS
+ZCR en MS: 402.515717
+De MS me voy a V
+ZCR en V: 905.660400
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 704.402527
+Sigo MS
+Llevo 1 tramas en MS
+ZCR en MS: 352.201263
+Sigo MS
+Llevo 2 tramas en MS
+ZCR en MS: 201.257858
+De MS me voy a V
+ZCR en V: 201.257858
+De V me voy a MS
+Llevo 0 tramas en MS
+ZCR en MS: 150.943405
+Sigo MS
+Llevo 1 tramas en MS
+ZCR en MS: 603.773621
+Sigo MS
+Llevo 2 tramas en MS
+ZCR en MS: 1257.861572
+Sigo MS
+Llevo 3 tramas en MS
+ZCR en MS: 1207.547241
+Sigo MS
+Llevo 4 tramas en MS
+ZCR en MS: 1509.433960
+Sigo MS
+Llevo 5 tramas en MS
+ZCR en MS: 1660.377441
+Sigo MS
+Llevo 6 tramas en MS
+ZCR en MS: 1660.377441
+Sigo MS
+Llevo 7 tramas en MS
+ZCR en MS: 805.031433
+Sigo MS
+Llevo 8 tramas en MS
+ZCR en MS: 1559.748413
+Sigo MS
+Llevo 9 tramas en MS
+ZCR en MS: 1660.377441
+Sigo MS
+Llevo 10 tramas en MS
+ZCR en MS: 1559.748413
+Sigo MS
+Llevo 11 tramas en MS
+ZCR en MS: 1660.377441
+Sigo MS
+Llevo 12 tramas en MS
+ZCR en MS: 1459.119385
+He llegado al máximo de MS
+De MS me voy a S
+ZCR en S: 1710.691772
+ZCR en S: 1911.949585
+ZCR en S: 1106.918213
+De S me voy a MV
+Llevo 0 tramas en MV
+ZCR en MV: 1610.062866
+Sigo MV
+Llevo 1 tramas en MV
+ZCR en MV: 1408.805054
+Sigo MV
+Llevo 2 tramas en MV
+ZCR en MV: 1610.062866
+Sigo MV
+Llevo 3 tramas en MV
+ZCR en MV: 855.345886
+Sigo MV
+Llevo 4 tramas en MV
+ZCR en MV: 1559.748413
+Sigo MV
+Llevo 5 tramas en MV
+ZCR en MV: 1459.119385
+He llegado al máximo de MV
+De MV me voy a S
+ZCR en S: 1006.289368
+ZCR en S: 1559.748413
+De S me voy a MV
+Llevo 0 tramas en MV
+ZCR en MV: 2415.094482
+Sigo MV
+Llevo 1 tramas en MV
+ZCR en MV: 1811.320801
+Sigo MV
+Llevo 2 tramas en MV
+ZCR en MV: 402.515717
+Sigo MV
+Llevo 3 tramas en MV
+ZCR en MV: 1408.805054
+Sigo MV
+Llevo 4 tramas en MV
+ZCR en MV: 1911.949585
+Sigo MV
+Llevo 5 tramas en MV
+ZCR en MV: 1308.176147
+He llegado al máximo de MV
+De MV me voy a S
+ZCR en S: 654.088074
+ZCR en S: 1459.119385
+ZCR en S: 2012.578735
+ZCR en S: 1911.949585
+ZCR en S: 1157.232788
+ZCR en S: 2012.578735
+ZCR en S: 1358.490601
+ZCR en S: 1509.433960
+ZCR en S: 855.345886
+ZCR en S: 1811.320801
+ZCR en S: 1559.748413
+ZCR en S: 1660.377441
+ZCR en S: 1308.176147
+ZCR en S: 1509.433960
+ZCR en S: 1660.377441
+ZCR en S: 1660.377441
+ZCR en S: 754.716980
+ZCR en S: 1308.176147
+ZCR en S: 1761.006226
+ZCR en S: 1509.433960
+ZCR en S: 855.345886
+ZCR en S: 2314.465576
+ZCR en S: 1911.949585
+ZCR en S: 1509.433960
+ZCR en S: 1106.918213
+ZCR en S: 1408.805054
+ZCR en S: 2062.893066
+ZCR en S: 1610.062866
+ZCR en S: 1257.861572
+ZCR en S: 2163.521973
+ZCR en S: 2012.578735
+ZCR en S: 905.660400
+ZCR en S: 754.716980
+ZCR en S: 1811.320801
+ZCR en S: 1811.320801
+ZCR en S: 1408.805054
+ZCR en S: 1257.861572
+ZCR en S: 1761.006226
+ZCR en S: 1911.949585
+ZCR en S: 1459.119385
+ZCR en S: 1710.691772
+ZCR en S: 1660.377441
+ZCR en S: 1861.635254
+ZCR en S: 1308.176147
+ZCR en S: 1710.691772
+ZCR en S: 1761.006226
+ZCR en S: 1710.691772
+ZCR en S: 1257.861572
+ZCR en S: 1207.547241
+ZCR en S: 2213.836426
+ZCR en S: 1660.377441
+ZCR en S: 1006.289368
+ZCR en S: 1207.547241
+ZCR en S: 2062.893066
+ZCR en S: 1761.006226
+ZCR en S: 1207.547241
+ZCR en S: 1459.119385
+ZCR en S: 1358.490601
+ZCR en S: 1660.377441
+ZCR en S: 905.660400
+ZCR en S: 1559.748413
+ZCR en S: 2062.893066
+ZCR en S: 1610.062866
+ZCR en S: 754.716980
+ZCR en S: 1811.320801
+ZCR en S: 1911.949585
+ZCR en S: 1509.433960
+ZCR en S: 1157.232788
+ZCR en S: 1761.006226
+ZCR en S: 1811.320801
