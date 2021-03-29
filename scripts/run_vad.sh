@@ -4,7 +4,7 @@
 # Use the nautilus explorer or chmod +x run_vad.sh
 for num_init in 10; do
 for num_ms in 31; do # 25 tiene pinta
-for num_mv in 39; do  
+for num_mv in 37; do  
 for alpha_uno in 0.5; do
 for alpha_dos in 8; do #Alrededor de 5 Alrededor de 15 malos resultados
 # -N <number-init> -s <number-ms> -m <number-mv> -a <n-alpha1> -b <n-alpha2>
