@@ -115,13 +115,13 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       /*
       printf("El nivel k0 es %f\n", vad_data->k0);
       printf("El nivel k1 es %f\n", vad_data->k1);
-      printf("El nivel k2 es %f\n", vad_data->k2);
+      printf("El nivel k2 es %f\n", vad_data->k2);*/
       printf("El valor de number_init introducido es: %d\n", vad_data->counter_init);
       printf("El valor de number_ms introducido es: %d\n", vad_data->counter_ms);
       printf("El valor de number_mv introducido es: %d\n", vad_data->counter_mv);
       printf("El valor de alpha1 introducido es: %f\n", vad_data->alpha1);
       printf("El valor de alpha2 introducido es: %f\n", vad_data->alpha2);
-      */
+      
      
     }
     break;
@@ -143,34 +143,40 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
     break;
 
   case ST_MV:
+    printf("Llevo %u tramas en MV\n", vad_data->counter_N);
     if(f.p > vad_data->k1 && f.p < vad_data->k2 && vad_data->counter_N < vad_data->counter_mv){
       vad_data->counter_N ++;
-      //printf("Sigo MV");
+      printf("Sigo MV\n");
     }else if(f.p > vad_data->k2 || vad_data->counter_N == vad_data->counter_mv){
       if(vad_data->counter_N == vad_data->counter_mv){
-        //printf("He llegado al máximo de MV\n");
+        printf("He llegado al máximo de MV\n");
       }
       vad_data->state = ST_VOICE;
       vad_data->counter_N = 0;
+      printf("De MV me voy a V\n");
     }else if(f.p < vad_data->k1){
       vad_data->state = ST_SILENCE;
       vad_data->counter_N = 0;
+      printf("De MV me voy a S\n");
     }
     break;
 
   case ST_MS:
+    printf("Llevo %u tramas en MS\n", vad_data->counter_N);
     if(f.p > vad_data->k1 && f.p < vad_data->k2 && vad_data->counter_N < vad_data->counter_ms){
       vad_data->counter_N ++;
-      //printf("Sigo MS");
+      printf("Sigo MS\n");
     }else if(f.p < vad_data->k1 || vad_data->counter_N == vad_data->counter_ms){
       if(vad_data->counter_N == vad_data->counter_ms){
-        //printf("He llegado al máximo de MS\n");
+        printf("He llegado al máximo de MS\n");
       }
       vad_data->state = ST_SILENCE;
       vad_data->counter_N = 0;
+      printf("De MS me voy a S\n");
     }else if(f.p > vad_data->k2){
       vad_data->state = ST_VOICE;
       vad_data->counter_N = 0;
+      printf("De MS me voy a V\n");
     }
     break;
 

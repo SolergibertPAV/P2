@@ -2,11 +2,11 @@
 
 # Be sure that this file has execution permissions:
 # Use the nautilus explorer or chmod +x run_vad.sh
-for num_init in 6 7 8 9 10 11 12 13 14 15 16; do
-for num_ms in 5 10 15 20 25 30; do
-for num_mv in 5 10 15 20 25 30; do  
+for num_init in 10 11 12 13 14; do
+for num_ms in 5 10 50 100; do
+for num_mv in 5 10 50 100; do  
 for alpha_uno in 2 3 4 5; do
-for alpha_dos in 1 2 3 4 5 6 7 8 9; do
+for alpha_dos in 4 5 6 7 8 ; do
 # -N <number-init> -s <number-ms> -m <number-mv> -a <n-alpha1> -b <n-alpha2>
 # Write here the name and path of your program and database
 DB=/Users/tj/Desktop/PAV/P2/db.v4
