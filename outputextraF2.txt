@@ -1,0 +1,1890 @@
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.023%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.699%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.005%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.207%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.313%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.079%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.695%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.012%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.220%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.318%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.141%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.717%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.058%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.222%
+Parametros: Number init: 8, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.320%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.026%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.705%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.011%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.196%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.309%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.079%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.698%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.019%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.206%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.311%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.142%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.720%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.064%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.219%
+Parametros: Number init: 8, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.316%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.022%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.711%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.019%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.201%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.312%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.076%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.704%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.024%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.210%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.308%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.142%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.728%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.070%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.221%
+Parametros: Number init: 8, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.311%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.024%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.712%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.012%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.201%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.311%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.075%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.705%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.018%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.209%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.314%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.139%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.726%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.066%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.228%
+Parametros: Number init: 8, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.316%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.019%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.711%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.008%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.200%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.311%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.075%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.704%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.013%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.211%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.316%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.137%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.726%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.063%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.221%
+Parametros: Number init: 8, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.318%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.026%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.710%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.022%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.202%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.331%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.077%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.700%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.024%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.212%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.333%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.140%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.722%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.067%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.223%
+Parametros: Number init: 8, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.310%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.018%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.698%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.008%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.200%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.316%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.072%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.694%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.015%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.208%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.316%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.137%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.716%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.060%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.218%
+Parametros: Number init: 8, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.318%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.015%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.692%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 90.986%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.188%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.310%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.079%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.693%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.002%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.205%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.319%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.138%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.714%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.047%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.206%
+Parametros: Number init: 8, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.319%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.017%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.698%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 90.993%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.179%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.309%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.079%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.696%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.009%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.193%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.316%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.139%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.717%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.053%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.206%
+Parametros: Number init: 8, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.317%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.014%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.704%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.000%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.184%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.312%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.076%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.702%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.014%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.197%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.312%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.139%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.726%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.059%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.208%
+Parametros: Number init: 8, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.312%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.015%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.705%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 90.994%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.184%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.311%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.075%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.704%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.008%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.196%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.318%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.136%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.723%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.055%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.214%
+Parametros: Number init: 8, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.317%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.011%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.704%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 90.990%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.183%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.311%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.074%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.702%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.003%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.198%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.320%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.135%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.723%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.052%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.208%
+Parametros: Number init: 8, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.320%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.018%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.703%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.003%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.186%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.331%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.077%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.699%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.014%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.200%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.337%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.137%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.720%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.056%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.209%
+Parametros: Number init: 8, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.311%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.010%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.691%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 90.989%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.184%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.316%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.072%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.692%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.005%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.195%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.320%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.135%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.713%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.050%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.205%
+Parametros: Number init: 8, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.319%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.029%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.627%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.016%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.231%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.348%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.086%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.705%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.027%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.243%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.351%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.149%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.728%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.073%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.244%
+Parametros: Number init: 8, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.352%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.032%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.634%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.022%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.220%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.344%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.086%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.708%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.033%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.229%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.345%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.150%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.732%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.079%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.241%
+Parametros: Number init: 8, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.349%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.028%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.640%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.029%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.225%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.346%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.083%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.714%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.038%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.233%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.342%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.150%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.740%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.085%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.243%
+Parametros: Number init: 8, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.344%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.030%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.640%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.023%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.225%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.345%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.082%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.716%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.033%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.232%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.348%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.147%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.738%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.081%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.250%
+Parametros: Number init: 8, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.349%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.025%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.640%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.019%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.224%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.345%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.082%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.714%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.028%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.234%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.350%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.145%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.737%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.078%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.244%
+Parametros: Number init: 8, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.351%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.032%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.639%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.033%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.227%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.366%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.084%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.710%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.039%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.235%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.367%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.148%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.734%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.082%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.245%
+Parametros: Number init: 8, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.343%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.024%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.627%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.019%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.224%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.351%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.079%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.704%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.030%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.231%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.349%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.145%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.728%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.076%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.241%
+Parametros: Number init: 8, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.350%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.237%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.834%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.050%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.277%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.419%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.276%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.865%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.134%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.300%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.461%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.248%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.853%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.153%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.282%
+Parametros: Number init: 9, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.448%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.238%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.842%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.048%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.278%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.421%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.277%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.873%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.130%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.299%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.459%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.250%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.860%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.140%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.278%
+Parametros: Number init: 9, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.446%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.235%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.840%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.045%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.280%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.414%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.276%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.869%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.131%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.307%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.458%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.250%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.856%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.146%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.289%
+Parametros: Number init: 9, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.445%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.237%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.838%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.052%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.281%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.424%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.274%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.869%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.136%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.304%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.462%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.248%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.864%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.146%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.286%
+Parametros: Number init: 9, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.449%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.232%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.850%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.042%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.276%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.421%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.275%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.884%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.126%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.299%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.464%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.249%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.871%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.137%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.284%
+Parametros: Number init: 9, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.453%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.237%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.843%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.051%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.282%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.419%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.273%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.874%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.136%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.305%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.461%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.247%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.862%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.151%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.282%
+Parametros: Number init: 9, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.448%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.236%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.835%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.046%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.275%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.425%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.274%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.866%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.130%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.301%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.467%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.248%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.853%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.138%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.283%
+Parametros: Number init: 9, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.454%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.219%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.828%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.042%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.266%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.420%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.258%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.859%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.118%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.282%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.452%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.236%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.845%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.134%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.258%
+Parametros: Number init: 9, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.438%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.221%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.836%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.040%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.267%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.424%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.258%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.867%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.114%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.280%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.453%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.239%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.852%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.121%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.257%
+Parametros: Number init: 9, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.440%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.217%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.834%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.036%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.269%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.417%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.257%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.863%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.115%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.289%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.452%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.238%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.848%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.126%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.268%
+Parametros: Number init: 9, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.438%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.219%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.832%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.044%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.270%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.427%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.255%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.863%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.120%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.286%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.457%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.236%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.856%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.127%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.265%
+Parametros: Number init: 9, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.443%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.215%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.844%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.033%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.265%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.425%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.256%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.878%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.110%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.281%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.458%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.237%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.863%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.117%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.262%
+Parametros: Number init: 9, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.447%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.219%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.837%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.043%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.271%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.422%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.254%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.868%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.120%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.287%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.455%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.235%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.854%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.132%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.260%
+Parametros: Number init: 9, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.441%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.218%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.829%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.037%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.264%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.428%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.256%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.860%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.114%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.283%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.461%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.236%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.846%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.118%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.262%
+Parametros: Number init: 9, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.447%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.237%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.766%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.066%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.297%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.449%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.277%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.802%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.146%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.315%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.486%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.254%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.871%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.163%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.296%
+Parametros: Number init: 9, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.472%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.238%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.774%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.064%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.298%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.451%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.277%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.811%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.142%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.314%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.485%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.256%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.879%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.149%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.292%
+Parametros: Number init: 9, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.471%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.235%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.773%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.061%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.300%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.445%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.276%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.806%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.143%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.322%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.484%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.255%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.874%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.155%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.304%
+Parametros: Number init: 9, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.470%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.237%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.771%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.068%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.301%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.454%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.275%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.806%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.147%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.319%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.488%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.254%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.883%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.155%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.300%
+Parametros: Number init: 9, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.474%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.232%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.782%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.058%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.296%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.452%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.275%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.822%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.138%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.314%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.489%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.254%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.889%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.146%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.298%
+Parametros: Number init: 9, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.478%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.237%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.775%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.067%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.302%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.449%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.274%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.811%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.147%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.320%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.486%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.253%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.880%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.160%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.296%
+Parametros: Number init: 9, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.472%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.236%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.768%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.062%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.295%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.456%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.275%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.804%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.142%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.316%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.492%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.254%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.872%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.147%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.297%
+Parametros: Number init: 9, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.478%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.308%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.889%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.117%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.341%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.451%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.314%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.877%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.107%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.344%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.425%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.339%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.875%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.115%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.320%
+Parametros: Number init: 10, Number MS: 30, Number MV: 34, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.419%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.309%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.898%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.120%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.323%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.443%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.315%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.885%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.110%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.328%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.426%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.343%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.882%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.116%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.317%
+Parametros: Number init: 10, Number MS: 30, Number MV: 35, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.422%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.307%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.905%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.122%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.334%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.451%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.315%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.888%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.115%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.339%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.425%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.349%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.884%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.122%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.328%
+Parametros: Number init: 10, Number MS: 30, Number MV: 36, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.422%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.307%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.895%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.125%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.328%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.445%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.315%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.882%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.118%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.333%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.425%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.343%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.881%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.123%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.319%
+Parametros: Number init: 10, Number MS: 30, Number MV: 37, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.421%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.306%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.909%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.112%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.323%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.442%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.314%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.896%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.104%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.328%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.422%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.340%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.893%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.111%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.316%
+Parametros: Number init: 10, Number MS: 30, Number MV: 38, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.418%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.304%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.901%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.125%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.329%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.442%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.313%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.889%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.117%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.327%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.422%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.342%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.887%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.128%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.317%
+Parametros: Number init: 10, Number MS: 30, Number MV: 39, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.419%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.310%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.894%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.115%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.324%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.448%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.318%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.881%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.108%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.329%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.428%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.346%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.878%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.115%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.317%
+Parametros: Number init: 10, Number MS: 30, Number MV: 40, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.424%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.304%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.883%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.101%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.322%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.441%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.308%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.873%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.101%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.333%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.423%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.325%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.873%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.108%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.309%
+Parametros: Number init: 10, Number MS: 31, Number MV: 34, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.417%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.305%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.891%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.105%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.306%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.436%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.309%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.881%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.104%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.319%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.426%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.330%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.880%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.110%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.308%
+Parametros: Number init: 10, Number MS: 31, Number MV: 35, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.422%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.303%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.898%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.107%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.318%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.444%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.309%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.884%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.108%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.330%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.425%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.335%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.882%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.115%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.319%
+Parametros: Number init: 10, Number MS: 31, Number MV: 36, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.422%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.303%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.888%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.110%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.311%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.437%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.309%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.878%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.111%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.324%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.425%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.329%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.879%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.116%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.310%
+Parametros: Number init: 10, Number MS: 31, Number MV: 37, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.421%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.302%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.902%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.096%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.306%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.435%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.308%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.892%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.097%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.319%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.422%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.326%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.891%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.104%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.307%
+Parametros: Number init: 10, Number MS: 31, Number MV: 38, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.418%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.300%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.894%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.110%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.313%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.435%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.306%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.884%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.111%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.318%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.422%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.328%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.885%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.122%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.308%
+Parametros: Number init: 10, Number MS: 31, Number MV: 39, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.419%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.306%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.887%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.100%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.307%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.441%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.312%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.877%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.101%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.320%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.428%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.332%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.876%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.108%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.308%
+Parametros: Number init: 10, Number MS: 31, Number MV: 40, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.424%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.299%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.835%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.111%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.340%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.459%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.305%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.907%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.112%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.353%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.442%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.328%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.882%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.122%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.331%
+Parametros: Number init: 10, Number MS: 32, Number MV: 34, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.438%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.300%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.843%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.114%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.322%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.451%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.307%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.915%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.115%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.336%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.442%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.332%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.889%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.123%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.327%
+Parametros: Number init: 10, Number MS: 32, Number MV: 35, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.441%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.298%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.850%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.116%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.334%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.459%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.307%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.917%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.119%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.348%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.442%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.337%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.890%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.129%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.339%
+Parametros: Number init: 10, Number MS: 32, Number MV: 36, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.441%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.298%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.840%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.119%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.327%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.452%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.306%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.912%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.122%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.341%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.441%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.332%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.888%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.130%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.330%
+Parametros: Number init: 10, Number MS: 32, Number MV: 37, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.440%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.297%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.854%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.106%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.322%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.450%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.306%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.926%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.108%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.336%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.439%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.329%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.900%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.118%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.327%
+Parametros: Number init: 10, Number MS: 32, Number MV: 38, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.437%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.296%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.846%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.119%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.329%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.450%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.304%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.918%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.122%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.335%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.439%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.330%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.894%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.135%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.328%
+Parametros: Number init: 10, Number MS: 32, Number MV: 39, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.438%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 3
+===> TOTAL: 90.301%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 4
+===> TOTAL: 90.839%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 4.5
+===> TOTAL: 91.109%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 5
+===> TOTAL: 91.323%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.55, Alpha2: 5.5
+===> TOTAL: 91.456%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 3
+===> TOTAL: 90.310%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 4
+===> TOTAL: 90.911%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 4.5
+===> TOTAL: 91.112%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 5
+===> TOTAL: 91.337%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.6, Alpha2: 5.5
+===> TOTAL: 91.445%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 3
+===> TOTAL: 90.335%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 4
+===> TOTAL: 90.885%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 4.5
+===> TOTAL: 91.121%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 5
+===> TOTAL: 91.328%
+Parametros: Number init: 10, Number MS: 32, Number MV: 40, Alpha1: 0.65, Alpha2: 5.5
+===> TOTAL: 91.443%
