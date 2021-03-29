@@ -130,22 +130,16 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float t) {
     break;
 
   case ST_SILENCE:
-    if (f.p > vad_data->k2){
-      vad_data->state = ST_VOICE;
+    if (f.p > vad_data->k1){
+      vad_data->state = ST_MV;
       //printf("De S me voy a V\n");
-    }else if(f.p > vad_data->k1 && f.p < vad_data->k2){ //Si estas entre los umbrales k1 y k2
-      vad_data->state = ST_MV; //El siguinte estado sera Maybe Voice
-      //printf("De S me voy a MV\n");
     }
     break;
 
   case ST_VOICE:
-    if (f.p < vad_data->k1){
-      vad_data->state = ST_SILENCE;
+    if (f.p < vad_data->k2){
+      vad_data->state = ST_MS;
       //printf("De V me voy a S\n");
-    }else if(f.p > vad_data->k1 && f.p < vad_data->k2){ //Si estas entre los umbrales k1 y k2
-      vad_data->state = ST_MS; //El siguinte estado sera Maybe Silence
-      //printf("De V me voy a MS\n");
     }
     break;
 
@@ -169,13 +163,13 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float t) {
 
   case ST_MS:
     //printf("Llevo %u tramas en MS\n", vad_data->counter_N);
-    if(f.p < vad_data->k1 && vad_data->counter_N < vad_data->counter_ms){
-      vad_data->state = ST_SILENCE;
+    if(f.p > vad_data->k2 && vad_data->counter_N < vad_data->counter_ms){
+      vad_data->state = ST_VOICE;
       vad_data->counter_N = 0;
       //printf("De MS me voy a S\n");
     }else if(vad_data->counter_N == vad_data->counter_ms){
       //printf("He llegado al máximo de MS\n");
-      vad_data->state = ST_VOICE;
+      vad_data->state = ST_SILENCE;
       vad_data->counter_N = 0;
       //printf("De MS me voy a V\n");
     }else {
