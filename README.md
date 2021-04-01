@@ -152,7 +152,7 @@ A simple vista, podría parecer que los dos realizan la tarea asignada a la perf
   la que se vea con claridad la señal antes y después de la cancelación (puede que `wavesurfer` no sea la
   mejor opción para esto, ya que no es capaz de visualizar varias señales al mismo tiempo).
 
-  ![alt text](E5.png "Title")
+  ![alt text](E4.png "Title")
   
   Como se puede observar, en la señal procesada con el programa (La señal de arriba) no se aprecia ese ruido que aparece en la señal original 
 
