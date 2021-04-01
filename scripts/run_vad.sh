@@ -3,7 +3,7 @@
 # Be sure that this file has execution permissions:
 # Use the nautilus explorer or chmod +x run_vad.sh
 for num_init in 11; do
-for num_ms in 12; do # 25 tiene pinta MS HA DE SER LARGA
+for num_ms in 12; do 
 for num_mv in 5; do  
 for alpha_uno in 2; do
 for alpha_dos in 7; do #Alrededor de 5 Alrededor de 15 malos resultados
@@ -11,8 +11,9 @@ for alpha_dos in 7; do #Alrededor de 5 Alrededor de 15 malos resultados
 # Write here the name and path of your program and database
 DB=/Users/tj/Desktop/PAV/P2/db.v4
 CMD="bin/vad -N $num_init -s $num_ms -m $num_mv -a $alpha_uno -b $alpha_dos"
-# CMD="bin/vad -N $num_init"
+
 echo Parametros: Number init: $num_init, Number MS: $num_ms, Number MV: $num_mv, Alpha1: $alpha_uno, Alpha2: $alpha_dos
+
 for filewav in $DB/*/*wav; do
 #    echo
     echo "**************** $filewav ****************"

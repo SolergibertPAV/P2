@@ -161,7 +161,6 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float t) {
       vad_data->counter_N ++;
       //printf("Sigo MV\n");
     }
-
     break;
 
   case ST_MS:
@@ -180,7 +179,6 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float t) {
       vad_data->counter_N ++;
       //printf("Sigo MS\n");
     }
-
     break;
 
   case ST_UNDEF:
