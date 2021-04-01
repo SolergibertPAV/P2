@@ -112,9 +112,15 @@ Ejercicios
 	* Incremento del nivel potencia en dB, respecto al nivel correspondiente al silencio inicial, para
 	  estar seguros de que un segmento de señal se corresponde con voz.
 
+	  Unos 20 dB.
+
 	* Duración mínima razonable de los segmentos de voz y silencio.
 
+		Los segmentos de voz tienen una duración mínima de 400 ms mientras que los de silencio menos de 100 ms.
+
 	* ¿Es capaz de sacar alguna conclusión a partir de la evolución de la tasa de cruces por cero?
+
+		Si, las tramas de ruido tienen una tasa de cruces por cero considerablamente mayor a las tramas de voz.
 
 
 ### Desarrollo del detector de actividad vocal
@@ -125,13 +131,18 @@ Ejercicios
 - Inserte una gráfica en la que se vea con claridad la señal temporal, el etiquetado manual y la detección
   automática conseguida para el fichero grabado al efecto. 
 
+	![alt text](E2.png "Title")
 
 - Explique, si existen. las discrepancias entre el etiquetado manual y la detección automática.
+
+Como se puede observar, existen diferencias entre el etiquetado manual (El patrón al que asimilarse) y el generado por el porgrama.
+A simple vista, podría parecer que los dos realizan la tarea asignada a la perfección.
 
 - Evalúe los resultados sobre la base de datos `db.v4` con el script `vad_evaluation.pl` e inserte a 
   continuación las tasas de sensibilidad (*recall*) y precisión para el conjunto de la base de datos (sólo
   el resumen).
 
+	![alt text](E3.png "Title")
 
 ### Trabajos de ampliación
 
