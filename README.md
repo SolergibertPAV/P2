@@ -152,11 +152,16 @@ A simple vista, podría parecer que los dos realizan la tarea asignada a la perf
   la que se vea con claridad la señal antes y después de la cancelación (puede que `wavesurfer` no sea la
   mejor opción para esto, ya que no es capaz de visualizar varias señales al mismo tiempo).
 
+  ![alt text](E5.png "Title")
+  
+  Como se puede observar, en la señal procesada con el programa (La señal de arriba) no se aprecia ese ruido que aparece en la señal original 
+
 #### Gestión de las opciones del programa usando `docopt_c`
 
 - Si ha usado `docopt_c` para realizar la gestión de las opciones y argumentos del programa `vad`, inserte
   una captura de pantalla en la que se vea el mensaje de ayuda del programa.
 
+	![alt text](E5.png "Title")
 
 ### Contribuciones adicionales y/o comentarios acerca de la práctica
 
