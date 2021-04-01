@@ -28,7 +28,7 @@ for filewav in $DB/*/*wav; do
 
 # Alternatively, uncomment to create output wave files
 #    filewavOut=${filewav/.wav/.vad.wav}
-#    $CMD $filewav $filevad $filewavOut || exit 1
+#    $CMD -i $filewav -o $filevad -w $filewavOut || exit 1
 
 done
 
