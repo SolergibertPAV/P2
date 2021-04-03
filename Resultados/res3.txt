@@ -1,0 +1,12 @@
+Parametros: Number init: 11, Number MS: 12, Number MV: 5, Alpha1: 2, Alpha2: 7.2
+===> TOTAL: 93.532%
+Parametros: Number init: 11, Number MS: 12, Number MV: 5, Alpha1: 2, Alpha2: 7.25
+===> TOTAL: 93.546%
+Parametros: Number init: 11, Number MS: 12, Number MV: 5, Alpha1: 2, Alpha2: 7.3
+===> TOTAL: 93.578%
+Parametros: Number init: 11, Number MS: 12, Number MV: 5, Alpha1: 2, Alpha2: 7.35
+===> TOTAL: 93.547%
+Parametros: Number init: 11, Number MS: 12, Number MV: 5, Alpha1: 2, Alpha2: 7.4
+===> TOTAL: 93.571%
+Parametros: Number init: 11, Number MS: 12, Number MV: 5, Alpha1: 2, Alpha2: 7.45
+===> TOTAL: 93.529%

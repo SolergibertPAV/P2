@@ -45,7 +45,7 @@ const char help_message[] =
 "   -s INT, --number-ms=INT  Number of frames in MS [default: 12]\n"
 "   -m INT, --number-mv=INT  Number of frames in MV [default: 5]\n"
 "   -a FLOAT, --n-alpha1=FLOAT  Value of alpha1 [default: 2]\n"
-"   -b FLOAT, --n-alpha2=FLOAT  Value of alpha2 [default: 7]\n"
+"   -b FLOAT, --n-alpha2=FLOAT  Value of alpha2 [default: 7.3]\n"
 "   -v, --verbose  Show debug information\n"
 "   -h, --help     Show this screen\n"
 "   --version      Show the version of the project\n"
@@ -324,7 +324,7 @@ int elems_to_args(Elements *elements, DocoptArgs *args, bool help,
 
 DocoptArgs docopt(int argc, char *argv[], bool help, const char *version) {
     DocoptArgs args = {
-        0, 0, 0, NULL, (char*) "2", (char*) "7", (char*) "11", (char*) "12",
+        0, 0, 0, NULL, (char*) "2", (char*) "7.3", (char*) "11", (char*) "12",
         (char*) "5", NULL, NULL,
         usage_pattern, help_message
     };

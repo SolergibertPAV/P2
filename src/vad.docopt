@@ -13,7 +13,7 @@ Options:
    -s INT, --number-ms=INT  Number of frames in MS [default: 12]
    -m INT, --number-mv=INT  Number of frames in MV [default: 5]
    -a FLOAT, --n-alpha1=FLOAT  Value of alpha1 [default: 2]
-   -b FLOAT, --n-alpha2=FLOAT  Value of alpha2 [default: 7]
+   -b FLOAT, --n-alpha2=FLOAT  Value of alpha2 [default: 7.3]
    -v, --verbose  Show debug information
    -h, --help     Show this screen
    --version      Show the version of the project

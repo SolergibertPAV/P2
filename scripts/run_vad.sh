@@ -6,7 +6,7 @@ for num_init in 11; do
 for num_ms in 12; do 
 for num_mv in 5; do  
 for alpha_uno in 2; do
-for alpha_dos in 7; do
+for alpha_dos in 7.3; do
 # -N <number-init> -s <number-ms> -m <number-mv> -a <n-alpha1> -b <n-alpha2>
 # Write here the name and path of your program and database
 DB=/Users/tj/Desktop/PAV/P2/db.v4
