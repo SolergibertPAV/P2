@@ -111,7 +111,7 @@ int main(int argc, char *argv[]) {
   /* TODO: what do you want to print, for last frames? */
   if (state != ST_VOICE && state != ST_SILENCE){
     state = ST_SILENCE;
-    //sf_write_float(sndfile_out, buffer_zeros, frame_size);
+    sf_write_float(sndfile_out, buffer_zeros, frame_size);
   }
   if (t != last_t){
     fprintf(vadfile, "%.5f\t%.5f\t%s\n", last_t * frame_duration, t * frame_duration + n_read / (float) sf_info.samplerate, state2str(state));
