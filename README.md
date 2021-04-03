@@ -105,7 +105,7 @@ Ejercicios
   continuación, una captura de `wavesurfer` en la que se vea con claridad la señal temporal, el contorno de
   potencia y la tasa de cruces por cero, junto con el etiquetado manual de los segmentos.
 
-	![alt text](E1.png "Title")
+	![alt text](Capturas/E1.png "Title")
 
 - A la vista de la gráfica, indique qué valores considera adecuados para las magnitudes siguientes:
 
@@ -131,7 +131,7 @@ Ejercicios
 - Inserte una gráfica en la que se vea con claridad la señal temporal, el etiquetado manual y la detección
   automática conseguida para el fichero grabado al efecto. 
 
-	![alt text](E2.png "Title")
+	![alt text](Capturas/E2.png "Title")
 
 - Explique, si existen. las discrepancias entre el etiquetado manual y la detección automática.
 
@@ -142,7 +142,7 @@ A simple vista, podría parecer que los dos realizan la tarea asignada a la perf
   continuación las tasas de sensibilidad (*recall*) y precisión para el conjunto de la base de datos (sólo
   el resumen).
 
-	![alt text](E3.png "Title")
+	![alt text](Capturas/E3.png "Title")
 
 ### Trabajos de ampliación
 
@@ -152,7 +152,7 @@ A simple vista, podría parecer que los dos realizan la tarea asignada a la perf
   la que se vea con claridad la señal antes y después de la cancelación (puede que `wavesurfer` no sea la
   mejor opción para esto, ya que no es capaz de visualizar varias señales al mismo tiempo).
 
-  ![alt text](E4.png "Title")
+  ![alt text](Capturas/E4.png "Title")
   
   Como se puede observar, en la señal procesada con el programa (La señal de arriba) no se aprecia ese ruido que aparece en la señal original 
 
@@ -161,7 +161,7 @@ A simple vista, podría parecer que los dos realizan la tarea asignada a la perf
 - Si ha usado `docopt_c` para realizar la gestión de las opciones y argumentos del programa `vad`, inserte
   una captura de pantalla en la que se vea el mensaje de ayuda del programa.
 
-	![alt text](E5.png "Title")
+	![alt text](Capturas/E5.png "Title")
 
 ### Contribuciones adicionales y/o comentarios acerca de la práctica
 
