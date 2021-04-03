@@ -4,6 +4,7 @@
 !/scripts/
 !/src/
 !/img/
+!/Resultados/
 scripts/test.sh
 .DS_Store
 *.txt
