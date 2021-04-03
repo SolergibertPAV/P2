@@ -6,3 +6,6 @@
 !/img/
 scripts/test.sh
 .DS_Store
+*.png
+*.txt
+
