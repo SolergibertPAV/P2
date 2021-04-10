@@ -112,7 +112,7 @@ Ejercicios
 	* Incremento del nivel potencia en dB, respecto al nivel correspondiente al silencio inicial, para
 	  estar seguros de que un segmento de señal se corresponde con voz.
 
-	  Unos 20 dB.
+	  Unos 25 dB.
 
 	* Duración mínima razonable de los segmentos de voz y silencio.
 
